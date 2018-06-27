@@ -15,7 +15,7 @@ There are two ways to contribute to this documentation:
     
 You can pretty much everything directly on GitHub! Click on the "Improve this page" at the top right of the page you want to edit.
 
-#### Standard git workflow
+#### Standard GitHub workflow
    
 Fork the project on GitHub, work on a separate branch, push to your fork and submit a Pull Request.
 
